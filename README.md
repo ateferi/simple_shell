@@ -1,6 +1,6 @@
 # simple_shell
 0x16. C - Simple Shell
-By Spencer Cheng, featuring Julien Barbier Project to be done in teams of 2 people (your team: Godswill Kalu, Vatalis Ibeh)
+By Spencer Cheng, featuring Julien Barbier Project to be done in teams of 2 people (your team: Abebe Lemma, Abel Haileselassie)
 
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
